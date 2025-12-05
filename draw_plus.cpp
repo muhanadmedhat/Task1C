@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-#include "../include/draw_plus.h"
+#include "draw_plus.h"
 
 #ifdef _WIN32
     #include <windows.h>
